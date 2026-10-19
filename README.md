@@ -10,4 +10,7 @@ stijn: 41596@ma-web.nl
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 |
 ![status](images/1.png)
 
-Stijn: H
+- Stijn: H
+- Mohamed: B
+
+
